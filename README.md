@@ -1,8 +1,13 @@
 # UUID for Nova
 
-Provides a command to quickly generate a UUID and insert at caret position.
+Provides access to quickly generate a random UUID.
 
 ## Usage
+
+Through the Editor Menu:
+
+* Open the Editor Menu
+* Select Generate UUID
 
 Through the Command Palette:
 
