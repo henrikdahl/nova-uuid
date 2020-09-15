@@ -2,8 +2,8 @@
     "identifier": "innoract.uuid",
     "name": "UUID",
     "organization": "Innoract",
-    "description": "Provides a command to quickly generate a UUID and insert at caret position.",
     "version": "1.0",
+    "description": "Provides access to quickly generate a random UUID.",
     "repository": "https://github.com/henrikdahl/nova-uuid",
     "bugs": "https://github.com/henrikdahl/nova-uuid/issues",
     "categories": [
