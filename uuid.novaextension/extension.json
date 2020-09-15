@@ -2,8 +2,8 @@
     "identifier": "innoract.uuid",
     "name": "UUID",
     "organization": "Innoract",
-    "version": "1.0",
     "description": "Provides access to quickly generate a random UUID.",
+    "version": "1.0.1",
     "repository": "https://github.com/henrikdahl/nova-uuid",
     "bugs": "https://github.com/henrikdahl/nova-uuid/issues",
     "categories": [
