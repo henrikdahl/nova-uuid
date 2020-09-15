@@ -1,0 +1,14 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "yarn build"
+    },
+    "run" : {
+      "enabled" : true,
+      "script" : "yarn watch"
+    }
+  },
+  "identifier" : "D86D838C-CC13-4793-9C29-29EE45D69D78",
+  "openLogOnRun" : "start"
+}
