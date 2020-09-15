@@ -11,4 +11,4 @@ Through the Command Palette:
 
 Through Keyboard Shortcuts:
 
-* Generate UUID `Option + CMD + G`
+* Generate UUID `Option + CMD + U`
