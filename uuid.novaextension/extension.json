@@ -6,6 +6,7 @@
     "version": "1.0.1",
     "repository": "https://github.com/henrikdahl/nova-uuid",
     "bugs": "https://github.com/henrikdahl/nova-uuid/issues",
+    "license": "MIT",
     "categories": [
         "commands"
     ],
