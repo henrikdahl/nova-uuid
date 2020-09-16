@@ -2,7 +2,7 @@
 
 Provides access to quickly generate a random UUID.
 
-<img src="https://github.com/henrikdahl/nova-uuid/raw/master/uuid.novaextension/screencast.gif" title="screencast" style="border-radius: 12px" />
+<img src="https://github.com/henrikdahl/nova-uuid/raw/master/uuid.novaextension/screencast.gif" title="screencast" style="border-radius: 12px;" />
 
 ## Usage
 
