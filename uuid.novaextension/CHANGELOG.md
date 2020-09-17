@@ -1,17 +1,26 @@
+## Version 1.0.4
+
+### Changed
+
+-   Move out screencast from extension.
+
 ## Version 1.0.3
 
 ### Changed
-- Added example gif to README.
+
+-   Added example gif to README.
 
 ## Version 1.0.2
 
 ### Changed
-- Added MIT license.
+
+-   Added MIT license.
 
 ## Version 1.0.1
 
 ### Changed
-- Improve documentation in README.
+
+-   Improve documentation in README.
 
 ## Version 1.0
 

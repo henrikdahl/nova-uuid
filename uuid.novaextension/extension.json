@@ -3,7 +3,7 @@
     "name": "UUID",
     "organization": "Innoract",
     "description": "Provides access to quickly generate a random UUID.",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "repository": "https://github.com/henrikdahl/nova-uuid",
     "bugs": "https://github.com/henrikdahl/nova-uuid/issues",
     "license": "MIT",

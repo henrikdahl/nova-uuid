@@ -1,6 +1,6 @@
 {
     "name": "nova-uuid",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "A UUID generator for Nova",
     "scripts": {
         "build": "rollup -c",
